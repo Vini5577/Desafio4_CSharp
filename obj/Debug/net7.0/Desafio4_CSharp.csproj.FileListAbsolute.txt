@@ -1,0 +1,15 @@
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\obj\Debug\net7.0\Desafio4_CSharp.csproj.AssemblyReference.cache
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\obj\Debug\net7.0\Desafio4_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\obj\Debug\net7.0\Desafio4_CSharp.AssemblyInfoInputs.cache
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\obj\Debug\net7.0\Desafio4_CSharp.AssemblyInfo.cs
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\obj\Debug\net7.0\Desafio4_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\obj\Debug\net7.0\Desafio4_CSharp.dll
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\obj\Debug\net7.0\refint\Desafio4_CSharp.dll
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\obj\Debug\net7.0\Desafio4_CSharp.pdb
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\bin\Debug\net7.0\Desafio4_CSharp.exe
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\bin\Debug\net7.0\Desafio4_CSharp.deps.json
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\bin\Debug\net7.0\Desafio4_CSharp.runtimeconfig.json
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\bin\Debug\net7.0\Desafio4_CSharp.dll
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\bin\Debug\net7.0\Desafio4_CSharp.pdb
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\obj\Debug\net7.0\Desafio4_CSharp.genruntimeconfig.cache
+C:\Users\hugo.santos\Documents\estudo\Desafio4_CSharp\obj\Debug\net7.0\ref\Desafio4_CSharp.dll
